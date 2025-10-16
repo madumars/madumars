@@ -37,7 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/madumars/madumars/output/snake.svg" alt="Snake animation" />
 
 ###
 
