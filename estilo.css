@@ -1,1 +1,8 @@
-
+.estilo1{
+    display: flex;
+    justify-content: flex-start;
+}
+.estilo1 img,
+.estilo1 div{
+    padding: 10px
+}
