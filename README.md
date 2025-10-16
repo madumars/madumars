@@ -3,15 +3,11 @@
 <h2 align="center">⭒₊ ⊹🌕₊ ⊹⭒   Olá👋! Sou a Duda. Seja bem vindo(a)   ⭒₊ ⊹🌕₊ ⊹⭒ !!</h2>
 
 ###
-
-
-<section class="estilo1">
-    <img align="rigth" height="50" alt="Image" src="https://github.com/user-attachments/assets/73f5c42e-d827-4ec6-9526-8a5286a9b4f4" />
-      <div>
+   <div>
         <h3> 🌑 About:<h3/>
         <h4>📚 Estudante de Análise e Desenvolvimento de Sistemas<br>✏️Desenhista nas horas vagas<br><h4>
-      </div>
-</section>
+   </div>
+
 <hr>
 
 <div align="center">
@@ -64,8 +60,10 @@
 </div>
 
 ###
+
+
 <br>
-<div align="center">
+<div align="left">
   &nbsp;<a href="https://www.linkedin.com/in/maria-eduarda-martins-3320a0249/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>&nbsp;
     <a/>
