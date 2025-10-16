@@ -2,16 +2,14 @@
 
 ###
 
-<div display="inline">
-  <div>
-    <h3 align="left"> 🌑 About:<h3/>
-    <h4 align="left">📚 Estudante de Análise e Desenvolvimento de Sistemas<br>✏️Desenhista nas horas vagas<br><h4>
-  </div>
 
-  <div align="right">
-    <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/73f5c42e-d827-4ec6-9526-8a5286a9b4f4" />
-  </div>
-</div>
+<section class="estilo1">
+    <img align="rigth" height="50" alt="Image" src="https://github.com/user-attachments/assets/73f5c42e-d827-4ec6-9526-8a5286a9b4f4" />
+      <div>
+        <h3> 🌑 About:<h3/>
+        <h4>📚 Estudante de Análise e Desenvolvimento de Sistemas<br>✏️Desenhista nas horas vagas<br><h4>
+      </div>
+</section>
 <hr>
 
 <div align="center">
@@ -84,5 +82,6 @@
 <br clear="both">
 
 ###
+
 
 
