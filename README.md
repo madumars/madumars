@@ -1,3 +1,5 @@
+ <link rel="stylesheet" href="estilo.css">
+
 <h2 align="center">⭒₊ ⊹🌕₊ ⊹⭒   Olá👋! Sou a Duda. Seja bem vindo(a)   ⭒₊ ⊹🌕₊ ⊹⭒ !!</h2>
 
 ###
