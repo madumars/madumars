@@ -2,11 +2,22 @@
 
 <h2 align="center">⭒₊ ⊹🌕₊ ⊹⭒   Olá👋! Sou a Duda. Seja bem vindo(a)   ⭒₊ ⊹🌕₊ ⊹⭒ !!</h2>
 
+
+
+<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/7ee7022c-44d9-4362-9512-1863eb191739"  />
+
+
 ###
-   <div>
+   <div align="left">
+    <br>
         <h3> 🌑 About:<h3/>
-        <h4>📚 Estudante de Análise e Desenvolvimento de Sistemas<br>✏️Desenhista nas horas vagas<br><h4>
+        <h4>📚 Estudante de Análise e Desenvolvimento de Sistemas<br>💡 Sempre estudando sobre tecnologia <br>✏️ Desenhista nas horas vagas<br><h4>
    </div>
+<br>
+
+
+
+
 
 <hr>
 
@@ -64,10 +75,8 @@
 
 ###
 
-
-
 <br>
-<div align="left">
+<div align="center">
   &nbsp;<a href="https://www.linkedin.com/in/maria-eduarda-martins-3320a0249/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>&nbsp;
     <a/>
